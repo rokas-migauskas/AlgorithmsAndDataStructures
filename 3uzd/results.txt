@@ -1,0 +1,4 @@
+Time for Process 1: Min: 24, Avg: 104.00, Max: 200
+Time for Process 2: Min: 24, Avg: 74.06, Max: 132
+Economic cost for Process 1: 5000
+Economic cost for Process 2: 3000
